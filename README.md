@@ -14,7 +14,7 @@ This is the second challenge I'm attempting, definitely excited for the future.
 
 ## Links
 
-- Solution:
+- Solution: [https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-G-bRQv-gd]
 - Live Site URL: [https://emmanueloloke.github.io/frontendmentor-stats-preview/]
 
 ## My Process
